@@ -1,0 +1,10 @@
+    overflow: hidden;
+    padding: 75px;
+}
+
+.inner-container {
+    width: 65%;
+    float: right;
+    background-color: #fdfdfd;
+    padding: 40px;
+}
